@@ -20,7 +20,7 @@ export default class Services extends Component {
           "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, repellendus?",
       },
       {
-        id: 1,
+        id: 3,
         icon: <FaDollarSign />,
         title: "secured payment",
         text:
